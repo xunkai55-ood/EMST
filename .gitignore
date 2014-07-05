@@ -4,6 +4,9 @@ bin/
 build
 build/
 
+*.out
+*.jpg
+
 # Compiled Object files
 *.slo
 *.lo
